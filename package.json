@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "audit": "npm start && lhci collect && lhci assert && lhci upload"
+    "audit": "lhci collect && lhci assert && lhci upload"
   },
   "eslintConfig": {
     "extends": [
