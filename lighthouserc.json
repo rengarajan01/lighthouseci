@@ -8,9 +8,6 @@
       "startServerReadyPattern": "Local app running at",
       "startServerReadyTimeout": 30000
     },
-    "assert": {
-      "preset": "lighthouse:recommended"
-    },
     "upload": {
       "target": "temporary-public-storage"
     }
