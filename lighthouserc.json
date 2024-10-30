@@ -2,7 +2,8 @@
   "ci": {
     "collect": {
       "url": [
-        "http://localhost:3000"
+        "http://localhost:3000",
+        "http://localhost:3000/about"
       ],
       "startServerCommand": "npm start",
       "startServerReadyPattern": "Local app running at",
